@@ -1,7 +1,7 @@
 ---
 title: Angela Gerald Mkindi (PhD)
 role: "Lecturer and Incubation Officer "
-avatar_filename: pic-1.jpg
+avatar_filename: angela_new-passportsize.jpg
 organizations:
   - name: The Nelson Mandela African Institution of Science and Technology
     url: ""
