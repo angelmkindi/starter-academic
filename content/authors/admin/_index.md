@@ -28,10 +28,10 @@ social:
 education:
   courses:
     - course: PhD Life Sciences (Sustainable Agriculture)
-      institution: The Nelson Mandela African Institution of Sciences and Technology
+      institution: The Nelson Mandela African Institution of Science and Technology
       year: ""
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSc in Environmental Sciences
+      institution: The Nelson Mandela African Institution of Science and Technology
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
