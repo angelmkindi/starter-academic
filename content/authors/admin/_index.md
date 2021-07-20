@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Angela Mkindi (PhD)
+title: Angela Gerald Mkindi (PhD)
 role: Lecturer and Incubation officer at NMAIST (Tanzania)
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
