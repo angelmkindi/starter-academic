@@ -11,10 +11,7 @@ authors:
 bio: My research interests include agroecology, farming systems, ecosystem
   services, natural pest regulation, sustainable crop pests management and
   natural pesticides
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
