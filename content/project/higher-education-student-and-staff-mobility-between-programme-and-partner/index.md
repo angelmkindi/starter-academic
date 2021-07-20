@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-We have a Privillage to hold this exchange program, that will host 2 PhD students, 1 training staff, and 1 Teaching staff  from NM-AIST to the University of Milano Bicocca.
+This exchange program, will host 2 PhD students, 1 training staff, and 1 Teaching staff  from NM-AIST to the University of Milano Bicocca.
