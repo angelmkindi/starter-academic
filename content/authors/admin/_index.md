@@ -32,10 +32,10 @@ education:
       year: ""
     - course: MSc in Environmental Sciences
       institution: The Nelson Mandela African Institution of Science and Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: ""
+    - course: BSc in Environmental Sciences and Management
+      institution: Sokoine University of Agriculture
+      year: 31
 email: ""
 user_groups:
   - Researchers
