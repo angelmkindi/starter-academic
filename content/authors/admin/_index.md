@@ -8,8 +8,9 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include agroecology, farming systems, ecosystem
+  services, natural pest regulation, sustainable crop pests management and
+  natural pesticides
 interests:
   - Artificial Intelligence
   - Computational Linguistics
