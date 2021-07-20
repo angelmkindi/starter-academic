@@ -4,7 +4,7 @@ role: "Lecturer and Incubation Officer "
 avatar_filename: angela_new-passportsize.jpg
 organizations:
   - name: The Nelson Mandela African Institution of Science and Technology
-    url: ""
+    url: www.nm-aist.ac.tz
 superuser: true
 authors:
   - admin
@@ -27,9 +27,9 @@ social:
     link: www.nm-aist.ac.tz
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD Life Sciences (Sustainable Agriculture)
+      institution: The Nelson Mandela African Institution of Sciences and Technology
+      year: ""
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
