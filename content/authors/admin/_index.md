@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: The Nelson Mandela African Institution of Science and Technology
     url: ""
 superuser: true
 authors:
