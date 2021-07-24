@@ -1,7 +1,7 @@
 ---
 title: Angela Gerald Mkindi (PhD)
 role: "Lecturer and Incubation Officer "
-avatar_filename: signal-2021-07-22-103341_002.jpeg
+avatar_filename: circle-cropped-removebg.png
 organizations:
   - name: The Nelson Mandela African Institution of Science and Technology
     url: www.nm-aist.ac.tz
