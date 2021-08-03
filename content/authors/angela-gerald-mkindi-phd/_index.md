@@ -1,7 +1,6 @@
 ---
 title: Angela Gerald Mkindi (PhD)
-role: Lecturer and Incubation Officer The Nelson Mandela African Institution of
-  Science and Technology
+role: "Lecturer and Incubation Officer "
 avatar_filename: avatar.png
 bio: Angela Gerald Mkindi (PhD) is a Lecturer in the School of Life Sciences and
   Engineering at the Nelson Mandela African Institution of Science and
