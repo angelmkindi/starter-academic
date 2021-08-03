@@ -33,6 +33,11 @@ education:
       institution: The Nelson Mandela African Institution of Science and Technology
     - course: "BSc in Environmental Sciences and Management "
       institution: " Sokoine University of Agriculture"
+    - course: Sustainability in Agriculture
+      institution: The Nelson Mandela African Institution of Sciences and Technology
+      year: ""
+    - course: Sustainable Crop Protection and Soil health Management
+      institution: The Nelson Mandela African Institution of Sciences and Technology
 email: angelmkindi@gmail.com
 superuser: true
 ---
