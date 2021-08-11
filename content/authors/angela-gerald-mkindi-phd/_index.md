@@ -1,6 +1,6 @@
 ---
 title: Angela Gerald Mkindi (PhD)
-role: "Lecturer and Incubation Officer "
+role: "Lecturer in Sustainable Agriculture and Incubation Officer "
 avatar_filename: avatar.png
 bio: ""
 interests: []
