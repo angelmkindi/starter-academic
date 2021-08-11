@@ -3,6 +3,8 @@ title: Angela Gerald Mkindi (PhD)
 role: "Lecturer and Incubation Officer "
 avatar_filename: avatar.png
 bio: ""
+interests: []
+social: []
 organizations:
   - name: The Nelson Mandela African Institution of Science and Technology
     url: https://nm-aist.ac.tz/
@@ -11,6 +13,9 @@ education:
     - course: "PhD Life Sciences (Sustainable Agriculture) "
       institution: " The Nelson Mandela African Institution of Science and Technology"
       year: ""
+    - course: MSc Environmental Sciences
+      institution: The Nelson Mandela African Institution of Science and Technology
+      year: 2016
     - course: "BSc in Environmental Sciences and Management "
       institution: " Sokoine University of Agriculture"
 email: angelmkindi@gmail.com
