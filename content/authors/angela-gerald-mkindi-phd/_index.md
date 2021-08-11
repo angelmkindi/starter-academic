@@ -8,6 +8,9 @@ social:
   - link: https://www.linkedin.com/in/angela-mkindi-b162b7a1/
     icon_pack: fab
     icon: https://www.linkedin.com/in/angela-mkindi-b162b7a1/
+  - link: https://www.skype.com/en/
+    icon_pack: fab
+    icon: angelmkindi
 organizations:
   - name: The Nelson Mandela African Institution of Science and Technology
     url: https://nm-aist.ac.tz/
