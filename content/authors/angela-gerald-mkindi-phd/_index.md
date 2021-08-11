@@ -4,7 +4,10 @@ role: "Lecturer in Sustainable Agriculture and Incubation Officer "
 avatar_filename: avatar.png
 bio: ""
 interests: []
-social: []
+social:
+  - link: https://www.linkedin.com/in/angela-mkindi-b162b7a1/
+    icon_pack: fab
+    icon: https://www.linkedin.com/in/angela-mkindi-b162b7a1/
 organizations:
   - name: The Nelson Mandela African Institution of Science and Technology
     url: https://nm-aist.ac.tz/
