@@ -15,7 +15,7 @@ education:
       year: ""
     - course: MSc Environmental Sciences
       institution: The Nelson Mandela African Institution of Science and Technology
-      year: 2016
+      year: ""
     - course: "BSc in Environmental Sciences and Management "
       institution: " Sokoine University of Agriculture"
 email: angelmkindi@gmail.com
