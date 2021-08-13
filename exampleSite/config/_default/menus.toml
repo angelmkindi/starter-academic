@@ -24,9 +24,22 @@
   weight = 40
 
 [[main]]
-  name = "Courses"
+  name = "Teaching"
   url = "courses/"
   weight = 50
+  
+  
+ [[main]]
+  name = "Research"
+  url = "research/"
+  weight = 50
+  
+  
+ [[main]]
+  name = "Consultatncy"
+  url = "consultancy/"
+  weight = 50
+
 
 [[main]]
   name = "Contact"
