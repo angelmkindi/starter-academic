@@ -24,8 +24,19 @@ date_format = "Jan 2006"
   title = "AWARD"
   url = "https://awardfellowships.org/"
   certificate_url = ""
-  date_start = "2019-01-01"
-  date_end = "2020-12-01"
+  date_start = "2019-02-01"
+  date_end = "2021-02-01"
   description = "A PAN-Africa- African Women in Agriculture Research and Development (AWARD) fellow- 2019/2020 fellowship cohort."
+  
+  
+ [[item]]
+  organization = "WIPO"
+  organization_url = "https://www.wipo.int/meetings/en/details.jsp?meeting_id=58050"
+  title = "REGIONAL BUREAU FOR AFRICA CAPACITY BUILDING FOR UNIVERSITIES and R&D INSTITUTIONS"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-01"
+  date_end = "2020-08-01"
+  description = ""
   
 +++
