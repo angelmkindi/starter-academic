@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "AWARD"
   url = "https://awardfellowships.org/"
   certificate_url = ""
-  date_start = "2019"
-  date_end = "2020"
+  date_start = "2019-01-01"
+  date_end = "2020-12-01"
   description = "A PAN-Africa- African Women in Agriculture Research and Development (AWARD) fellow- 2019/2020 fellowship cohort."
   
 +++
