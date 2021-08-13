@@ -26,16 +26,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Lecturer"
+  company = "Department of Sustainable Agriculture, Biodiversity and Ecosystem Management, The Nelson Mandela African Institution of Science and Technology)"
+  company_url = "https://nm-aist.ac.tz/"
+  location = "Arusha, Tanzania"
+  date_start = "2020-06-01"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
