@@ -26,12 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  - Screening potential ideas, inventions, innovations, Minimum Viable Products (MVPs) and Minimum Viable Systems/Processes (MVSs) for incubation.
-  - Ensuring that, inventions and innovations for the incubation Centre are patentable and or have recognised background intellectual property 
-  - Conducting innovation assessment of the ideas, inventions, innovations, MVPs and MVSs from a list approved by the management to undergo incubation process 
-  - Formulating teams of experts in the fields of business, technology development and respective areas of specialization in line with the ideas, inventions, innovations, MVPs and MVSs to provide technical support, training, and mentorship in all stages of Pre-Incubation and Incubation 
-  - Identifying Intellectual Properties emanating during the pre-incubation and incubation processes 
-  - Building and maintain deep relationships with customers, representing their interests throughout the incubation life cycle using and adapting to new and emerging technologies and strategies
+  * Screening potential ideas, inventions, innovations, Minimum Viable Products (MVPs) and Minimum Viable Systems/Processes (MVSs) for incubation.
+  * Ensuring that, inventions and innovations for the incubation Centre are patentable and or have recognised background intellectual property 
+  * Conducting innovation assessment of the ideas, inventions, innovations, MVPs and MVSs from a list approved by the management to undergo incubation process 
+  * Formulating teams of experts in the fields of business, technology development and respective areas of specialization in line with the ideas, inventions, innovations, MVPs and MVSs to provide technical support, training, and mentorship in all stages of Pre-Incubation and Incubation 
+  * Identifying Intellectual Properties emanating during the pre-incubation and incubation processes 
+  * Building and maintain deep relationships with customers, representing their interests throughout the incubation life cycle using and adapting to new and emerging technologies and strategies
   """
 
 [[experience]]
