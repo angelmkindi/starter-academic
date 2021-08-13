@@ -20,14 +20,12 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "African Women in Agriculture Research and Development (AWARD)"
-  organization_url = "g"
+  organization_url = "https://awardfellowships.org/"
   title = "AWARD"
-  url = ""
+  url = "https://awardfellowships.org/"
   certificate_url = ""
   date_start = "2019"
   date_end = "2020"
   description = "A PAN-Africa- African Women in Agriculture Research and Development (AWARD) fellow- 2019/2020 fellowship cohort."
-
-
-
+  
 +++
