@@ -41,6 +41,6 @@ date_format = "Jan 2006"
   location = "Arusha, Tanzania"
   date_start = "2020-06-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Taught Sustainable agriculture, Agroecology and Sustainable crop protection"""
 
 +++
