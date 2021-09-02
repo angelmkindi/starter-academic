@@ -1,5 +1,6 @@
 ---
 title: Higher education student and staff mobility between Programme and Partner
+  countries
 subtitle: ERASMUS PLUS KA107
 date: 2021-07-20T08:33:19.202Z
 draft: false
